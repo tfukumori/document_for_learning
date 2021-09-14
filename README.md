@@ -22,11 +22,6 @@
   - エンジニア新人研修の講義資料
   - Webアプリケーション基礎、HTTP/DNS、ソフトウェアライセンス、ソフトウェアテスト、テスト自動化、アクセシビリティ、Docker、Chrome Developer Toolsの使い方、サイボウズのアジャイル・クオリティ、デザインの役割と関わりかた、データベース、CI/CD、セキュリティ、モブに早く慣れたい人のためのガイド、ITコミュニティ文化と情報発信に共通する成長と貢献の要素、正規表現、Kubernetesを使った開発入門、モニタリング入門、gRPC入門、日本語話者向け！ベトナム語超入門
 
-- [新人の方によく展開している有益な情報](https://qiita.com/kazuo_reve/items/d1a3f0ee48e24bba38f1)
-  - Qiita記事
-  - 有益な記事・論文・書籍等が紹介されている
-  - コードリーディング、質問、検索、報告、理解、推敲、論理、設計、デザイン、トラブルシューティング、分析、計画、時間、振り返り、頑張る、学習、写経、情報収集、キャリア、変化・挑戦、スキル、育成
-
 # セキュリティ
 
 - [セキュリティ関連NIST文書](https://www.ipa.go.jp/security/publications/nist/index.html)
@@ -53,3 +48,10 @@
 - LINE社内テクニカルライティング講座[わかりやすい1文を書くコツ](https://engineering.linecorp.com/ja/blog/line-technical-writing-course/)、[1文では説明が終わらない文章を書くコツ](https://engineering.linecorp.com/ja/blog/line-technical-writing-course-2/)
   - LINEが公開
   - 技術資料を書く際にわかりやすい文章を書く方法が記載されている
+
+# リンク集
+
+- [新人の方によく展開している有益な情報](https://qiita.com/kazuo_reve/items/d1a3f0ee48e24bba38f1)
+  - Qiita記事
+  - 有益な記事・論文・書籍等が紹介されている
+  - コードリーディング、質問、検索、報告、理解、推敲、論理、設計、デザイン、トラブルシューティング、分析、計画、時間、振り返り、頑張る、学習、写経、情報収集、キャリア、変化・挑戦、スキル、育成
