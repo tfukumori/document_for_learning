@@ -22,6 +22,12 @@
   - エンジニア新人研修の講義資料
   - Webアプリケーション基礎、HTTP/DNS、ソフトウェアライセンス、ソフトウェアテスト、テスト自動化、アクセシビリティ、Docker、Chrome Developer Toolsの使い方、サイボウズのアジャイル・クオリティ、デザインの役割と関わりかた、データベース、CI/CD、セキュリティ、モブに早く慣れたい人のためのガイド、ITコミュニティ文化と情報発信に共通する成長と貢献の要素、正規表現、Kubernetesを使った開発入門、モニタリング入門、gRPC入門、日本語話者向け！ベトナム語超入門
 
+# フロントエンド、UI
+
+- [デザインに少し手を加え、フォームを改善する実践的なUIのテクニックのまとめ | コリス](https://coliss.com/articles/build-websites/operation/work/ui-tips-for-better-forms.html)
+  - [15 UI Tips for Better Forms](https://www.uidesign.tips/blog/top-ui-ux-design-tips-for-better-forms)の翻訳
+  - ユーザーにとって使いやすい画面を作成するための考え方
+
 # バックエンド
 
 - [Backend master class Golang, Postgres, Docker](https://github.com/techschool/simplebank)
