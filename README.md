@@ -33,17 +33,48 @@
   - IPAが公開
   - 安全なウェブサイトの作り方、安全なSQLの呼び出し方、Web Application Firewall 読本、TLS暗号設定ガイドライン、DNSキャッシュポイズニング対策、『高度標的型攻撃』対策に向けたシステム設計ガイド
 
-# 要件定義
+# 提案書、見積もり、要件定義
+
+- [ソフトウェア開発見積りガイドブック](https://www.ipa.go.jp/files/000005108.pdf)
+  - IPAが公開
+  - [刊行物のご案内](https://www.ipa.go.jp/ikc/publish/index.html)からリンクされている
+  - 定量的見積もりについて記載されている
+
+- [超上流から攻めるIT化の事例集：要件定義](https://www.ipa.go.jp/sec/softwareengineering/tool/ep/ep2.html)
+  - IPAが公開
+  - 要件定義の書き方に悩んだときにとっかかりとして参照できるサンプルとひな形
+  - 機能要件（プロセス）、機能要件（データ）、機能要件（インターフェイス）、非機能要件
 
 - [超上流から攻めるIT化の事例集：システム化の方向性と計画](https://www.ipa.go.jp/sec/softwareengineering/tool/ep/ep1.html)
   - IPAが公開
   - 提案書、仕様書の書き方に悩んだときとっかかりとして参照できるサンプルとひな形
   - システム化方針の確認、プロジェクトの背景・目的の共有、システム化範囲の選択と集中、システムに求められる要素の確認、プロジェクト実行計画の策定、投資効果による評価、要件定義フェーズの計画と承認、非機能要件
 
-- [超上流から攻めるIT化の事例集：要件定義](https://www.ipa.go.jp/sec/softwareengineering/tool/ep/ep2.html)
+- [システム構築の上流工程強化（非機能要求グレード）：IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/sec/softwareengineering/std/ent03-b.html)
   - IPAが公開
-  - 要件定義の書き方に悩んだときにとっかかりとして参照できるサンプルとひな形
-  - 機能要件（プロセス）、機能要件（データ）、機能要件（インターフェイス）、非機能要件
+  - 「非機能要求」についてのユーザと開発者との認識の行き違いや、互いの意図とは異なる理解を防止することを目的とした「非機能要求グレード」に関する資料
+
+- [ソフトウェア開発データ白書](https://zenn.dev/koduki/articles/d36e18c41b4bd0)
+  - IPAが公開
+  - [刊行物のご案内](https://www.ipa.go.jp/ikc/publish/index.html)からリンクされている
+  - 規模による妥当な開発期間、画面や帳票による開発規模、新規開発と改修による工数規模の想定などが示されている。見積もりの妥当性を判断する際に使用できる
+
+# ソフトウェア開発
+
+- [情報処理システム高信頼化教訓集 ITサービス編](https://www.ipa.go.jp/files/000071982.pdf)
+  - IPAが公開
+  - [刊行物のご案内](https://www.ipa.go.jp/ikc/publish/index.html)からリンクされている
+  - 信頼性の高いシステムを開発するための、運用から技術面まで網羅された資料
+
+- [高信頼化ソフトウェアのための開発手法ガイドブック](https://www.ipa.go.jp/files/000005144.pdf)
+  - IPAが公開
+  - [刊行物のご案内](https://www.ipa.go.jp/ikc/publish/index.html)からリンクされている
+  - 信頼性の高いシステムを開発するための資料。2011年刊行だが今でも有用な情報が含まれている。障害事例の記載も豊富
+
+- [高回復力システム基盤導入ガイド](https://www.ipa.go.jp/files/000004632.pdf)
+  - IPAが公開
+  - [刊行物のご案内](https://www.ipa.go.jp/ikc/publish/index.html)からリンクされている
+  - 可用性の高いシステム開発を行うためのモデルなどについて記載されている
 
 # 文章技術
 
@@ -51,7 +82,17 @@
   - LINEが公開
   - 技術資料を書く際にわかりやすい文章を書く方法が記載されている
 
+# ITスキル
+
+- [ITスキル標準V3ダウンロード：IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/jinzai/itss/download_V3_2011.html)
+  - IPAが公開
+  - 人事設計や採用戦略、育成プランを考える人が主に使う感じだとは思いますが自分のキャリアプランにも使える部分はある
+
 # リンク集
+
+- [刊行物のご案内：IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/ikc/publish/index.html)
+  - IPAが公開
+  - IPAの刊行物が無料公開されている
 
 - [新人の方によく展開している有益な情報](https://qiita.com/kazuo_reve/items/d1a3f0ee48e24bba38f1)
   - Qiita記事
