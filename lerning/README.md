@@ -87,6 +87,14 @@
 - [［CEDEC 2021］フランス人開発者が，日本のゲーム業界の常識を斬る。「日本で世界規模の競争力のあるゲーム開発は可能なのか？」聴講レポート](https://www.4gamer.net/games/999/G999905/20210826081/)
   - ゲーム業界でのマネジメント面も含めた開発に関するいい点悪い点がまとめられている。
 
+## アーキテクチャ（ARCHITECTURE.md）
+
+- [プログラムの「アーキテクチャに関するドキュメント」は面倒でも書くべき、ではどのように書くべきか？ - GIGAZINE](https://gigazine.net/news/20210210-architecture-md/)
+  - 新参の開発者がスムーズにプロジェクトを理解できるよう、大規模なプロジェクトでは「プロジェクト全体のアーキテクチャ」を示した「ARCHITECTURE.md」を添えた方がよい。
+
+- [ARCHITECTURE.mdというものを書いてみた - maru source](https://blog.h13i32maru.jp/entry/2021/02/19/114906)
+  - ARCHITECTURE.md自体の目的は「プロジェクトへの新規参加者が全体像の把握を効率的に行えるようにする」。
+
 # 構成管理
 
 - [GitHub の基礎 - 管理の基本と製品の機能](https://docs.microsoft.com/ja-jp/learn/paths/github-administration-products/)
@@ -99,6 +107,12 @@
 
 - [GitHub 英語例文集](https://zenn.dev/boarwell/articles/english-examples)
   - GitHub で Issueを書く際に参考になる表現。
+
+- [質の高い技術文書を書く方法](https://blog.riywo.com/2021/01/how-to-write-high-quality-technical-doc/)
+  - 新しいプロジェクトの骨子を説明する資料、会議の叩き台となる 1 枚ペラ、本番環境に変更を加えるにあたっての包括的な情報や具体的な手順、の書き方。
+
+- [通信が絡むUIを仕様書で定義するときのパターン](https://himenon.github.io/docs/knowledge/communication-and-ui/)
+  - 「通信」の状態をUIで漏れなく表現する資料を作るための資料。
 
 # ITスキル
 
