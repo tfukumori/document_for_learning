@@ -53,6 +53,27 @@
 - [Pythonプログラミング入門 - 教材・講義動画](https://sites.google.com/view/ut-python/resource/%E6%95%99%E6%9D%90%E8%AC%9B%E7%BE%A9%E5%8B%95%E7%94%BB)
   - 東京大学が公開しているPythonの初心者にもオススメの教材。画像を多く使用し、教材と照らし合わせながらPythonに関する学習を進められる。
 
+- [数理・データサイエンス教育強化拠点コンソーシアム](http://www.mi.u-tokyo.ac.jp/consortium/e-learning.html)
+  - Data Scienceのトピックが大抵揃っている
+
+- [強化学習の基礎と深層学習](https://www.slideshare.net/ShotaImai3/rlssdeepreinforcementlearning)
+  - 東京大学松尾研究室の深層強化学習サマースクールの資料
+
+- [『人工知能は人間を超えるか ディープラーニングの先にあるもの』](https://www.youtube.com/watch?v=lqywEafvq_Q&ab_channel=%23LYVE)
+  - 松尾豊東京大学准教授セッション
+
+- [Deep Learning基礎講座演習コンテンツ 公開ページ | 東京大学松尾研究室](https://weblab.t.u-tokyo.ac.jp/deep-learning%E5%9F%BA%E7%A4%8E%E8%AC%9B%E5%BA%A7%E6%BC%94%E7%BF%92%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84-%E5%85%AC%E9%96%8B%E3%83%9A%E3%83%BC%E3%82%B8/)
+  - 松尾研究室によるDeep learningの無料講座
+
+- [Statistics and Data Science from MIT - Probability - The Science of Uncertainty and Data](https://touya-fujitani.blogspot.com/2018/12/statistics-and-data-science-from-mit.html)
+  - 松尾研究室によるDeep learningの無料講座で基礎を学んだ後に受けるべき講義
+
+- [数理・データサイエンス・AIモデルカリキュラム完全準拠教材](http://www.mi.u-tokyo.ac.jp/6university_consortium.html)
+  - 政府の「AI戦略2019」に対応した内容であり、モデルカリキュラムの内容の全てに対応した教材
+
+- [AI For Everyone （すべての人のためのAIリテラシー講座） | Coursera](https://www.coursera.org/learn/ai-for-everyone-ja)
+  - DeepLearning.AIの人気コース「AI for Everyone」に、東大松尾豊教授が講師をつとめる日本向けコンテンツを加えた特別版
+
 - [統計の入門](https://lms.gacco.org/courses/course-v1:gacco+ga150+2021_08/about)
   - 京都大学 国際高等教育院 附属データ科学イノベーション教育研究センターによる。統計ならびに統計学に関する基本的な考え方を中心に講義されている。
 
