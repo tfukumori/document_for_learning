@@ -31,6 +31,9 @@
 - [iOS とAndroid の違い クロスプラットフォームのアプリデザインで特に気をつけるべき点](https://note.com/ku_marin/n/n60ebdb19ebd0)
   - iOS の[Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)、Android の[Material Design](https://material.io/design) という各UIの指針がある。これらを踏まえ、同様のデザインでiOS・Android ともに違和感のないアプリを効率的に作成するために特に気を付けるべき点がまとまっている。
 
+- [Webデザインで参考にしたいギャラリーサイト25選【2021年版】](https://tomorrowgate.co.jp/blog/1804/)
+  - おすすめのWebデザインのギャラリーサイトや、有名で参考にしているひとが多いギャラリーサイト。ギャラリーをコツコツ見て、分析を重ねることで、デザインの引き出しはドンドン増えていく。
+
 # バックエンド
 
 - [Backend master class Golang, Postgres, Docker](https://github.com/techschool/simplebank)
