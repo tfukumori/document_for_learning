@@ -19,6 +19,19 @@
   - サイボウズが公開したエンジニア新人研修の講義資料。
   - Webアプリケーション基礎、HTTP/DNS、ソフトウェアライセンス、ソフトウェアテスト、テスト自動化、アクセシビリティ、Docker、Chrome Developer Toolsの使い方、サイボウズのアジャイル・クオリティ、デザインの役割と関わりかた、データベース、CI/CD、セキュリティ、モブに早く慣れたい人のためのガイド、ITコミュニティ文化と情報発信に共通する成長と貢献の要素、正規表現、Kubernetesを使った開発入門、モニタリング入門、gRPC入門、日本語話者向け！ベトナム語超入門。
 
+- [ミクシィの21新卒技術研修の資料と動画を公開します！ - mixi developers](https://mixi-developers.mixi.co.jp/21-technical-training-a0bcdbf9bca0)
+  - ミクシィが公開した新人研修の講義資料。
+  - git、データベース、設計・テスト、iOSアプリ開発、Androidアプリ開発、フロントエンド、ゲーム開発（Unity）
+
+- [株式会社リクルート　エンジニアコース新人研修の内容を公開します！（2021年度版） | リクルート　メンバーズブログ](https://blog.recruit.co.jp/rtc/2021/08/20/recruit-bootcamp-2021/)
+  - リクルートが公開した新人研修の講義資料。
+  - ソフトウェアエンジニアとしての姿勢と心構え、ブラウザ、A/Bテスト概論、見てわかるテスト駆動開発、検索結果の品質向上、AWS研修　コース概要、パブリッククラウドの活用、VPC
+コンピューティング(EC2)とコンピューティング向けストレージ(EBS)入門、ELBを使った負荷分散(とAutoScalingを使った自動スケーリング)、Amazon S3を使ったデータ保管、Amazon RDS、Amazon ElastiCache、Amazon CloudWatch、Amazon SNSとAmazon SQS、AWS Lambda、AWS IAM、AWS研修ハンズオン　サーバーレスハンズオン、AWS研修ハンズオン、Web Application Hardening、JavaScript、TypeScript、事業価値とエンジニアリング・リソース効率性とフロー効率性、ToC（制約理論）入門、TPS（トヨタ生産方式）入門
+
+- [GMOペパボのエンジニア研修2021の資料を公開します - ペパボテックブログ](https://tech.pepabo.com/2021/09/21/newbie-training-2021/)
+  - GMOペパボが公開した新人研修の講義資料。
+  - Rails Tutorial、コンテナ、Web セキュリティ、フロントエンド、モバイルアプリ、機械学習
+
 # フロントエンド、UI、デザイン
 
 - [デザインに少し手を加え、フォームを改善する実践的なUIのテクニックのまとめ | コリス](https://coliss.com/articles/build-websites/operation/work/ui-tips-for-better-forms.html)
