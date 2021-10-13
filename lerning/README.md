@@ -32,6 +32,10 @@
   - GMOペパボが公開した新人研修の講義資料。
   - Rails Tutorial、コンテナ、Web セキュリティ、フロントエンド、モバイルアプリ、機械学習
 
+- [はてなリモートインターンシップ2021の講義資料を公開します - Hatena Developer Blog](https://developer.hatenastaff.com/entry/intern2021-lecture-published)
+  - はてなが公開した2021年のリモートインターンシップの講義資料。
+  - Web API ─ REST GraphQL gRPC、Webサービスインフラ入門、コンテナ技術とDocker、Kubernetesの仕組みとハンズオン、マイクロサービス、現代的なフロントエンド開発 ─ TypeScript React、RDBMS ─ MySQLの操作とテーブル設計、Perl再入門 ─ オブジェクト指向やテストまで、Webエンジニアのためのデザイン入門、Webサービスの企画 ─ ワークショップを交えて、AWSによる講義とハンズオン
+
 # フロントエンド、UI、デザイン
 
 - [デザインに少し手を加え、フォームを改善する実践的なUIのテクニックのまとめ | コリス](https://coliss.com/articles/build-websites/operation/work/ui-tips-for-better-forms.html)
