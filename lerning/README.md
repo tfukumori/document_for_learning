@@ -57,6 +57,10 @@
   - TECH SCHOOL が公開したコース動画[バックエンドマスタークラスコース - Youtube](https://github.com/techschool/simplebank)の研修用資料。
   - Golang、PostgreSQL、および Docker を使用し、バックエンドシステムをゼロから設計、開発、デプロイする方法について学ぶことができる。
 
+- [Netflixにおける実用的なAPI設計: gRPCとFieldMask | pyspa](https://blog.pyspa.org/post/using_protobuf_fieldmask/)
+  - Netflix Tech BlogのgRPC APIに関する記事の日本語概要。
+  - gRPCでは、FieldMaskをうまく使うことで、必要な情報だけ取得したりあるいは与えることができる。
+
 # 機械学習、数学
 
 - [コグニカル](https://cognicull.com/ja)
