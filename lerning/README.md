@@ -101,6 +101,10 @@
 - [統計の入門](https://lms.gacco.org/courses/course-v1:gacco+ga150+2021_08/about)
   - 京都大学 国際高等教育院 附属データ科学イノベーション教育研究センターによる。統計ならびに統計学に関する基本的な考え方を中心に講義されている。
 
+- [プログラミング演習 Python 2021](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/265459/1/Version2021_10_08_01.pdf)、[プログラミング演習 Python 2021(コラム編) )
+](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/265459/2/Version2021_10_08_02.pdf)
+  - [ここ](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/265459)で京都大学が公開している、コラム編が素晴らしい。
+
 
 # セキュリティ
 
