@@ -167,6 +167,9 @@
 - [通信が絡むUIを仕様書で定義するときのパターン](https://himenon.github.io/docs/knowledge/communication-and-ui/)
   - 「通信」の状態をUIで漏れなく表現する資料を作るための資料。
 
+- [脱ExcelしたいMarkdownテンプレート目次](https://qiita.com/e99h2121/items/97168cad64ff40afb77d)
+  - 「Markdownテンプレート」シリーズの目次。
+
 # ITスキル
 
 - [ITスキル標準V3ダウンロード：IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/jinzai/itss/download_V3_2011.html)
