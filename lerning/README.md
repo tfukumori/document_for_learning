@@ -116,6 +116,12 @@
   - IPAが公開した脆弱性対策資料。
   - 安全なウェブサイトの作り方、安全なSQLの呼び出し方、Web Application Firewall 読本、TLS暗号設定ガイドライン、DNSキャッシュポイズニング対策、『高度標的型攻撃』対策に向けたシステム設計ガイド。
 
+- [Cybersecurity Awareness training](https://learnsecurity.amazon.com/)
+  - Amazon.com内で使われていた従業員向けのセキュリティオンライントレーニングを無償で一般公開
+    - https://www.publickey1.jp/blog/21/amazoncom_1.html
+  - オンラインコースは15分程度の内容で、安全なコミュニケーションの習慣、ビジネスデータの取り扱い、フィッシング攻撃について、物理的な攻撃を低減する、ソーシャルエンジニアリングの脅威を認識するなど
+  - NIST SP 800-53r4、ISO 27001、K-ISMS、RSEFT、IRAP、OSPAR、MTCSなどに沿っている
+
 # ソフトウェア開発
 
 - [情報処理システム高信頼化教訓集 ITサービス編](https://www.ipa.go.jp/files/000071982.pdf)
