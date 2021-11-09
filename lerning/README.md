@@ -61,6 +61,13 @@
   - Netflix Tech BlogのgRPC APIに関する記事の日本語概要。
   - gRPCでは、FieldMaskをうまく使うことで、必要な情報だけ取得したりあるいは与えることができる。
 
+# インフラ
+
+- [社内勉強会 はじめてのDocker for インフラエンジニア | DevelopersIO](https://dev.classmethod.jp/articles/getting-start-docker-for-platformengineer/)
+  - Docker に触れたことがないインフラエンジニア向け
+  - ローカルで Docker を動かし、インフラっぽい動作確認を行い、Amazon ECS で動かすところまで。
+
+
 # 機械学習、数学
 
 - [コグニカル](https://cognicull.com/ja)
