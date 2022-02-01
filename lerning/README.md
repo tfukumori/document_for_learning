@@ -54,6 +54,10 @@
 - [なぜエンジニアが作る画面はダサいのか…?「理由」と「対策」を徹底解説【エンジニア向け画面デザイン講座】](https://qiita.com/mskmiki/items/544149987475719e417b)
   - 用途を考慮したデザイン講座
 
+- [デザイナー1年生のための教科書「アプリデザインドリルPDF」公開 | DevelopersIO](https://dev.classmethod.jp/articles/classmethodappsdesigndrill/)
+  - 仕事を進める上で認識しておくと良いこと。いろいろな方を見ていて、よくつまづいている部分についての説明
+  - 綺麗なレイアウトを作成することの技術的な面での記載はありません。レイアウトついては別に良サイトがたくさんある
+
 # バックエンド
 
 - [Backend master class Golang, Postgres, Docker](https://github.com/techschool/simplebank)
