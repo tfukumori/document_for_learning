@@ -38,6 +38,7 @@
 
 # フロントエンド、UI、デザイン
 
+
 - [デザインに少し手を加え、フォームを改善する実践的なUIのテクニックのまとめ | コリス](https://coliss.com/articles/build-websites/operation/work/ui-tips-for-better-forms.html)
   - [15 UI Tips for Better Forms](https://www.uidesign.tips/blog/top-ui-ux-design-tips-for-better-forms)の翻訳。
   - ユーザーにとって使いやすい画面を作成するための考え方。
@@ -59,6 +60,19 @@
   - 綺麗なレイアウトを作成することの技術的な面での記載はありません。レイアウトついては別に良サイトがたくさんある
 
 # バックエンド
+
+- [Web API 設計のベスト プラクティス - Azure Architecture Center | Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/architecture/best-practices/api-design)
+  - RESTful Web API の設計のベストプラクティスが知れる
+  - 内容が網羅的かつ気をつけるべきポイントが示されている
+  - パスでリソースの階層をどこまで表現するかのベストプラクティスと、その理由が明示されている
+    - [リソースを中心とした API 設計の整理](https://docs.microsoft.com/ja-jp/azure/architecture/best-practices/api-design#organize-the-api-design-around-resources)
+  - 最近まで更新されているかつ日本語がわかりやすい
+  - Microsoft が提供しているベストプラクティスではあるものの、どのクラウドを使うかに依らず参考にできる内容
+
+- [クラウド アプリケーションのベスト プラクティス - Azure Architecture Center | Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/architecture/best-practices/index-best-practices)
+  - アプリケーションを設計する上で悩んだり正解がないような内容にもフォーカス
+  - 勉強になるかつ、今後迷ったときに読み返したい内容
+  - Microsoft が提供しているベストプラクティスではあるものの、どのクラウドを使うかに依らず参考にできる内容
 
 - [Backend master class Golang, Postgres, Docker](https://github.com/techschool/simplebank)
   - TECH SCHOOL が公開したコース動画[バックエンドマスタークラスコース - Youtube](https://github.com/techschool/simplebank)の研修用資料。
